@@ -1,0 +1,10 @@
+.DS_Store
+.vscode/
+
+node_modules/
+package.json
+package-lock.json
+
+build/
+
+.github/
